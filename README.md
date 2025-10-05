@@ -42,7 +42,7 @@ This tool is for **educational and authorized security testing purposes ONLY**. 
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Setup Option 1: Manual Installation
 
 Follow these steps to get the AI Red Team Crew up and running on your local machine.
 
@@ -93,7 +93,22 @@ Once the prerequisites are installed and your API keys are configured, launch th
 ```bash
 streamlit run app.py
 ```
+Navigate to the local URL provided by Streamlit in your browser, configure your target, cerebras and serper api keys in the sidebar and launch the crew!
 
+---
+
+## 🚀 Setup Option 2: Running with Docker prebuilt image (Recommended)
+
+This is the easiest way to run the application, as it handles all system and Python dependencies automatically.
+
+### Prerequisites
+- [Docker](https://www.docker.com/get-started) must be installed and running on your system.
+
+
+### Run the Docker Container
+```bash
+docker run --rm -p 8501:8501 patelankit706/ml_ai_sec:latest
+```
 Navigate to the local URL provided by Streamlit in your browser, configure your target, cerebras and serper api keys in the sidebar and launch the crew!
 
 ---
