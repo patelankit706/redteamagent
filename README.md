@@ -6,7 +6,7 @@ An autonomous, AI-powered multi-agent system designed to simulate cybersecurity 
 
 ## 🎥 Demo Video
 
-[![AI Red Team Crew Demo Video](https://img.youtube.com/vi/U3FU36HlAB0/hqdefault.jpg)](https://youtu.be/U3FU36HlAB0)
+[![AI Red Team Crew Demo Video](https://img.youtube.com/vi/tV_K_LI0e1s/hqdefault.jpg)](https://youtu.be/tV_K_LI0e1s)
 
 *(Click the image above to watch a video demonstration of the platform in action)*
 
